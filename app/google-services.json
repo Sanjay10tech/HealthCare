@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "237305165971",
+    "project_id": "myapplication-cfe35",
+    "storage_bucket": "myapplication-cfe35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237305165971:android:c2b07251e8fccfae5af566",
+        "android_client_info": {
+          "package_name": "com.practice.healthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237305165971-4brppm7k9pptsde3n0hqb1gh8pde4qfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.practice.healthcare",
+            "certificate_hash": "6508044bf07dcf2265aeaf6285984ecfe366e614"
+          }
+        },
+        {
+          "client_id": "237305165971-g0mgelsb6n99vo0eevg6iqkuhmt2l03s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUAjzpf6HY_RcAYfCz2Z389-zJDkAxJZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237305165971-g0mgelsb6n99vo0eevg6iqkuhmt2l03s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
