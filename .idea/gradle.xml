@@ -7,6 +7,9 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleWrapperPropertiesFile" value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+        <option name="delegatedBuild" value="true" />
+        <option name="gradleJvmArguments" value="-Xmx2048m -XX:MaxPermSize=512m" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
